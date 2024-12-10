@@ -45,7 +45,7 @@ require (
 	github.com/hashicorp/hcl v1.0.0
 	github.com/hashicorp/hcl/v2 v2.10.1
 	github.com/hashicorp/terraform v0.15.3
-	github.com/hashicorp/terraform-svchost v0.0.0-20200729002733-f050f53b9734
+	github.com/hashicorp/terraform-svchost v0.1.1
 	github.com/iancoleman/strcase v0.1.3
 	github.com/itchyny/gojq v0.12.1
 	github.com/mattn/go-isatty v0.0.20
@@ -60,7 +60,7 @@ require (
 	github.com/spf13/afero v1.6.0
 	github.com/spf13/cobra v1.8.0
 	github.com/stretchr/testify v1.8.4
-	github.com/zclconf/go-cty v1.10.0
+	github.com/zclconf/go-cty v1.13.1
 	go.uber.org/zap v1.19.0
 	golang.org/x/sys v0.20.0
 	golang.org/x/tools v0.21.1-0.20240531212143-b6235391adb3 // indirect
